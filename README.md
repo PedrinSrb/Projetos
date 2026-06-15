@@ -62,12 +62,13 @@ O aplicativo utiliza a permissão INTERNET para realizar requisições à API p�
 
 ## Como executar o projeto
 
-1. Clonar este repositório.
-2. Abrir o projeto no Android Studio.
-3. Aguardar a sincronização do Gradle.
-4. Executar o aplicativo em um emulador ou dispositivo Android.
-5. Informar o nome de um time ou liga.
-6. Clicar no botão "Buscar".
+1. Baixar o arquivo zip
+2. Extrair a pasta do arquivo
+3. Abrir a pasta no Android Studio
+4. Aguardar a sincronização do Gradle.
+5. Executar o aplicativo em um emulador ou dispositivo Android.
+6. Informar o nome de um time ou liga.
+7. Clicar no botão "Buscar".
 
 Prints do aplicativo
 
